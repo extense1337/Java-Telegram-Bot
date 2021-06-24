@@ -10,7 +10,7 @@
 3. Перезаполнить свои данные
 4. Помощь
 
-Использованные источники
+<h2>Использованные источники</h2>
 
 Spring Boot Documentation
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
