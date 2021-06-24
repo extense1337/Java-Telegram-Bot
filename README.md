@@ -9,3 +9,20 @@
 2. Получить данные своего профиля
 3. Перезаполнить свои данные
 4. Помощь
+
+Использованные источники
+
+Spring Boot Documentation
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+
+Telegram Bot Api
+https://core.telegram.org/bots/api
+
+Серия видео уроков Сергея Вячеслаева
+https://www.youtube.com/playlist?list=PLHkGizioHWF2a5mesJC7w3_9EYpaRBJJq
+
+MongoDB Cloud Manager
+https://docs.cloudmanager.mongodb.com/
+
+Heroku maven deploy
+https://devcenter.heroku.com/categories/working-with-maven
