@@ -3,6 +3,6 @@
 /.mvn/
 /target/
 activate.txt
-HELP.txt
+HELP.md
 mvnw
 mvnw.cmd
